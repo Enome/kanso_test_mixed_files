@@ -1,0 +1,15 @@
+{
+    "name": "Mixed files",
+    "version": "0.0.1",
+    "description": "Test application for mixed files",
+    "attachments": ["index.html"],
+    "modules" : ["lib", "libs"],
+    "coffee-script" : {
+         "modules" : ["lib", "libs"]
+    },
+    "dependencies": {
+        "attachments": null,
+        "modules": null,
+        "coffee-script-precompiler": null
+    }
+}
